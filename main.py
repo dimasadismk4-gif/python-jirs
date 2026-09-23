@@ -8,5 +8,14 @@ print(time.time() - start_time, "detik")
 
 #variabel adalah tempat menyimpan data
 x = 10
-a = 10
-print("nilai x = ", x)
+a = 7
+panjang = 1000
+#pemanggilan pertama
+print("Nilai a = ", a)
+print("Nilai x = ", x)
+print("Nilai panjang = ", panjang)
+
+nilai_b = x
+
+#pemanggilan kedua
+print("nilai b = ", nilai_b)
