@@ -32,7 +32,7 @@ print("data : ", data_float)
 print("- bertipe: ", type(data_float))
 
 #data string
-data_string = "ucup"
+data_string = "nigga"
 print("data: ", data_string)
 print("- bertipe: ", type(data_string))
 
